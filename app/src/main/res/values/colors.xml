@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="middle_gray">#D9D9D9</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="yellow">#FFDD2D</color>
+    <color name="light_yellow">#FFED92</color>
+    <color name="pink">#FFE5EB</color>
+    <color name="light_pink">#FFF5F7</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="crimson">#D04377</color>
+    <color name="light_crimson">#E5769F</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#418FDE</color>
+</resources>

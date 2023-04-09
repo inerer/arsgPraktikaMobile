@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.Tea.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#8ABAD3</item>
+    </style>
+
+    <style name="Widget.Theme.Tea.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">#8ABAD3</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>
